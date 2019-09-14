@@ -1,0 +1,33 @@
+{
+  "tychees": {
+    "name": "Tychees",
+    "name-abbr": "TYC",
+    "copyright": "Copyright",
+    "copyright-year": "2017"
+  },
+  "app":{
+    "name-full": "Tychees Business Suites",
+    "module-dashboard": "Dashboard",
+    "module-billing": "Point of Sales",
+    "module-calendar": "Calendar",
+    "module-inventory": "Inventory",
+    "module-relation": "Relation",
+    "module-reports": "Reports",
+    "module-humanResources": "HR Payroll",
+    "module-place": "My Stores",
+    "module-profile": "Profile Settings",
+    "module-settings": "Console Settings",
+    "action-logout": "Logout",
+    "action-language" : "Language",
+    "action-language-en" : "English (US)",
+    "action-language-zh" : "简体中文",
+    "action-place-create": "Create New Place",
+    "action-setup" : "Setup",
+    "action-setup-cleanCache": "Clean Browser Cache",
+    "action-setup-offlineDatabase": "Use Offline Database"
+  },
+  "module":{
+    "name": "Calendar",
+    "version": "1.00"
+  }
+}

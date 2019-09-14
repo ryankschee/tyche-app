@@ -1,0 +1,33 @@
+{
+  "tychees": {
+    "name": "太姬",
+    "name-abbr": "TYC",
+    "copyright": "版权所有",
+    "copyright-year": "2017"
+  },
+  "app":{
+    "name-full": "太姬商务套装",
+    "module-dashboard": "仪表板",
+    "module-billing": "销售",
+    "module-calendar": "行事历",
+    "module-inventory": "库存",
+    "module-relation": "关系",
+    "module-reports": "数据报表",
+    "module-humanResources": "人资管理",
+    "module-place": "我的店铺",
+    "module-profile": "个人设置",
+    "module-settings": "系统设置",
+    "action-logout": "登出",
+    "action-language" : "语言",
+    "action-language-en" : "English (US)",
+    "action-language-zh" : "简体中文",
+    "action-place-create": "创建新店铺",
+    "action-setup" : "设置",
+    "action-setup-cleanCache": "清理网页快照",
+    "action-setup-offlineDatabase": "使用离线资料库"
+  },
+  "module":{
+    "name": "行事历系统",
+    "version": "1.00"
+  }
+}

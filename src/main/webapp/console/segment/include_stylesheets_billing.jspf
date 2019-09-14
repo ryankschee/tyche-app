@@ -1,0 +1,50 @@
+<!--link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+
+<link href="/resources/plugins/bootstrap/bootstrap.min.css" rel="stylesheet">
+
+<link href="/resources/plugins/font-awesome/css/font-awesome.css" rel="stylesheet">
+<link href="/resources/plugins/font-awesome/css/font-awesome-animation.css" rel="stylesheet">
+<link href="/resources/plugins/animate/animate.css" rel="stylesheet">
+<link href="/resources/plugins/jquery-ui/jquery-ui.css" rel="stylesheet">
+
+<!-- Chosen Select -->
+<link href="/resources/plugins/chosen/chosen.css" rel="stylesheet">
+
+<!-- Select2 -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.6-rc.0/css/select2.min.css" rel="stylesheet" />
+
+<link href="/resources/plugins/clockpicker/clockpicker.css" rel="stylesheet">
+<link href="/resources/plugins/colorpicker/css/bootstrap-colorpicker.css" rel="stylesheet">
+<link href="/resources/plugins/dataTables/dataTables.bootstrap.css" rel="stylesheet">
+<link href="/resources/plugins/dataTables/dataTables.responsive.css" rel="stylesheet">
+<link href="/resources/plugins/dataTables/dataTables.tableTools.min.css" rel="stylesheet">
+<link href="/resources/plugins/datepicker/datepicker3.css" rel="stylesheet">
+<link href="/resources/plugins/daterangepicker/daterangepicker-bs3.css" rel="stylesheet">
+<link href="/resources/plugins/dropzone/basic.css" rel="stylesheet">
+<link href="/resources/plugins/dropzone/dropzone.css" rel="stylesheet">  
+<link href="/resources/plugins/fullcalendar/fullcalendar.css" rel="stylesheet">
+<link href="/resources/plugins/fullcalendar/fullcalendar.print.css" rel="stylesheet">
+<link href="/resources/plugins/jasny/jasny-bootstrap.min.css" rel="stylesheet">
+<link href="/resources/plugins/jsTree/style.min.css" rel="stylesheet">
+<link href="/resources/plugins/icheck/custom.css" rel="stylesheet">
+<link href="/resources/plugins/intl-tel-input/css/intlTelInput.css" rel="stylesheet">
+<link href="/resources/plugins/ladda/ladda.themeless.min.css" rel="stylesheet">
+<link href="/resources/plugins/nestable/nestable.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote.css" rel="stylesheet">
+<link href="/resources/plugins/summernote/summernote-bs3.css" rel="stylesheet">
+<link href="/resources/plugins/sweetalert/sweetalert.css" rel="stylesheet">
+<link href="/resources/plugins/tagsinput/bootstrap-tagsinput.css" rel="stylesheet">
+<link href="/resources/plugins/toastr/toastr.min.css" rel="stylesheet">
+<link href="/resources/plugins/steps/jquery.steps.css" rel="stylesheet">
+<link href="/resources/plugins/thumbnail-scroller/jquery.mThumbnailScroller.css" rel="stylesheet">
+<link href="/resources/plugins/Inspinia/console_style.css" rel="stylesheet">
+<link href="/console/_common/lib/styles/tychees_style.css" rel="stylesheet">
+
+<link href="https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet">
+<link href="https://gitcdn.github.io/bootstrap-toggle/2.2.0/css/bootstrap-toggle.min.css" rel="stylesheet">
+
+<!-- Mocha Unit Test -->
+<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mocha/3.5.0/mocha.css" integrity="sha256-XxZgFmkmXZlR6jVPH+k+HULjy6Lc2IadEc+Ph/KINXk=" crossorigin="anonymous" /-->
+
+<!-- Font Awesome CDN -->
+<script async src="https://use.fontawesome.com/e43ad60a23.js"></script>

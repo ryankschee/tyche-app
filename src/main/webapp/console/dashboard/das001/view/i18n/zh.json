@@ -1,0 +1,45 @@
+{
+  "tychees": {
+    "name": "å¤ªå§¬",
+    "name-abbr": "TYC",
+    "copyright": "ç‰ˆæ�ƒæ‰€æœ‰",
+    "copyright-year": "2017"
+  },
+  "app":{
+    "name-full": "å¤ªå§¬å•†åŠ¡å¥—è£…",
+    "module-dashboard": "ä»ªè¡¨æ�¿",
+    "module-billing": "é”€å”®",
+    "module-calendar": "è¡Œäº‹åŽ†",
+    "module-inventory": "åº“å­˜",
+    "module-relation": "å…³ç³»",
+    "module-reports": "æ•°æ�®æŠ¥è¡¨",
+    "module-humanResources": "äººèµ„ç®¡ç�†",
+    "module-place": "æˆ‘çš„åº—é“º",
+    "module-profile": "ä¸ªäººè®¾ç½®",
+    "module-settings": "ç³»ç»Ÿè®¾ç½®",
+    "action-logout": "ç™»å‡º",
+    "action-language" : "è¯­è¨€",
+    "action-language-en" : "English (US)",
+    "action-language-zh" : "ç®€ä½“ä¸­æ–‡",
+    "action-place-create": "åˆ›å»ºæ–°åº—é“º",
+    "action-setup" : "è®¾ç½®",
+    "action-setup-cleanCache": "æ¸…ç�†ç½‘é¡µå¿«ç…§",
+    "action-setup-offlineDatabase": "ä½¿ç”¨ç¦»çº¿èµ„æ–™åº“"
+  },
+  "module":{
+    "name": "ä»ªè¡¨æ�¿",
+    "version": "1.00",
+    "billing-title": "äº‘ç«¯é”€å”®",
+    "billing-desc": "Point of Sales",
+    "calendar-title": "è¡Œäº‹åŽ†",
+    "calendar-desc": "Manage Events",
+    "inventory-title": "åº“å­˜ç®¡ç�†",
+    "inventory-desc": "Organization of Items",
+    "relation-title": "å…³ç³»ç®¡ç�†",
+    "relation-desc": "Manage Opportunities",
+    "relation-title-report": "æŠ¥è¡¨ç®¡ç�†",
+    "relation-desc-report": "Manage Reports",
+    "relation-title-settings": "è®¾å®šç®¡ç�†",
+    "relation-desc-settings": "Console Settings"
+  }
+}

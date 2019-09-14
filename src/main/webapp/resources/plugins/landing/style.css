@@ -1,0 +1,205 @@
+.btn {
+  font-family: "Oswald";
+  font-size: 16px;
+  letter-spacing: 1px;
+  border-radius: 40px;
+  padding: 8px 30px;
+  margin-bottom: 5px;
+  -webkit-transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+          transition: color 0.3s, background-color 0.3s, border-color 0.3s;
+}
+.btn.btn-lg {
+  padding: 10px 35px;
+  letter-spacing: 2px;
+  font-size: 21px;
+}
+.btn-main {
+  color: #fff;
+  background-color: #4ecdc4;
+  border-color: #4ecdc4;
+}
+.btn-main:hover,
+.btn-main:focus,
+.btn-main:active {
+  background-color: #33b5ac;
+  border-color: #33b5ac;
+  color: #fff;
+}
+.btn-default-o {
+  color: #f2f2f2;
+  border-color: #f2f2f2;
+  background-color: transparent;
+}
+.btn-default-o:hover {
+  color: #4ecdc4;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.call-us {
+  padding: 50px 0;
+  background-color: #4ecdc4;
+  text-align: center;
+}
+.call-us h3 {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 30px;
+  line-height: 45px;
+  vertical-align: middle;
+  margin: 0 30px 0 0;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+}
+
+.filter {
+  text-align: center;
+}
+.filter .btn {
+  font-weight: 400;
+}
+.filter input[type="radio"] {
+  display: none;
+}
+.mb40 {
+  margin-bottom: 40px !important;
+}
+
+
+.grid {
+  width: 100%;
+  padding: 0;
+}
+.grid figure {
+  position: relative;
+  float: left;
+  overflow: hidden;
+  background: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 33.33333333%;
+  box-sizing: border-box;
+}
+.grid figure img {
+  position: relative;
+  display: block;
+  min-height: 100%;
+  max-width: 100%;
+  opacity: 1;
+  -webkit-transition: opacity 0.3s, -webkit-transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+          transition: opacity 0.3s, transform 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+.grid figure figcaption {
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.grid figure figcaption > a {
+  z-index: 1000;
+  position: absolute;
+  right: 50%;
+  bottom: 50px;
+  margin-right: -67px;
+  opacity: 0;
+  -webkit-transform: translate3d(0, 60px, 0);
+          transform: translate3d(0, 60px, 0);
+  -webkit-transition: -webkit-transform 0.35s, opacity 0.35s;
+          transition: transform 0.35s, opacity 0.35s;
+}
+.grid figure h2 {
+  color: #fff;
+  font-weight: 300;
+  margin: 0;
+  position: absolute;
+  right: 30px;
+  left: 30px;
+  padding: 10px 0;
+  top: 30px;
+  opacity: 0;
+  -webkit-transition: -webkit-transform 0.35s, opacity 0.35s;
+          transition: transform 0.35s, opacity 0.35s;
+  -webkit-transform: translate3d(0, 20px, 0);
+          transform: translate3d(0, 20px, 0);
+}
+.grid figure h2::after {
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  width: 80px;
+  margin-left: -40px;
+  height: 1px;
+  background: #4ecdc4;
+  content: '';
+  -webkit-transform: translate3d(0, 40px, 0);
+          transform: translate3d(0, 40px, 0);
+  opacity: 0;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+          transition: opacity 0.35s, transform 0.35s;
+}
+.grid figure h2 span {
+  font-weight: 800;
+}
+.grid figure p {
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 68.5%;
+  margin: 0;
+  position: absolute;
+  right: 30px;
+  left: 30px;
+  padding: 10px 0;
+  top: 100px;
+  line-height: 1.5;
+  -webkit-transform: translate3d(0, 50px, 0);
+          transform: translate3d(0, 50px, 0);
+  opacity: 0;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+          transition: opacity 0.35s, transform 0.35s;
+}
+.grid figure:hover h2 {
+  opacity: 1;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.grid figure:hover h2::after {
+  opacity: 1;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.grid figure:hover img {
+  opacity: 0.3;
+  -webkit-transform: scale(1.2);
+      -ms-transform: scale(1.2);
+          transform: scale(1.2);
+}
+.grid figure:hover p {
+  opacity: 1;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+.grid figure:hover figcaption > a {
+  opacity: 1;
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
+}
+
+@media (min-width: 1440px) {
+  .grid {
+    width: 100%;
+    padding: 0;
+  }
+  .grid figure {
+    position: relative;
+    float: left;
+    overflow: hidden;
+    background: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 25%;
+  }
+}

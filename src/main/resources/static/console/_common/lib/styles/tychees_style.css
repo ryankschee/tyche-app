@@ -1,0 +1,115 @@
+@media (min-width: 768px) {
+    .modal-xxl {
+        width: 90%;
+        max-width:2560px;
+        margin-top:20px;
+    }
+    
+    .modal-xl {
+        width: 90%;
+        max-width:1280px;
+    }
+    
+    .modal-lg4 {
+        width: 90%;
+        max-width:1080px;
+    }
+    
+    .modal-lg3 {
+        width: 90%;
+        max-width:960px;
+    }
+    
+    .modal-lg2 {
+        width: 90%;
+        max-width:840px;
+    }
+    
+    .modal-lg1 {
+        width: 90%;
+        max-width:720px;
+    }
+    
+    .modal-md1 {
+        width: 90%;
+        max-width:480px;
+    }
+    
+    .modal-md2 {
+        width: 90%;
+        max-width:400px;
+    }
+    
+    .modal-md2 {
+        width: 90%;
+        max-width:320px;
+    }
+}
+
+.clsDatePicker {
+    z-index: 100000;
+}
+
+.myDatePicker{
+	z-index:100000;
+}
+
+.ui-sortable { 
+	list-style-type: none; 
+	margin: 0; 
+    padding: 0; 
+}
+.ui-sortable li { 
+	margin: 0 3px 3px 3px; 
+	padding: 0.4em; 
+    padding-left: 1.5em; 
+}
+
+.highlight {
+	border: 1px solid red;
+    font-weight: bold;
+    font-size: 45px;
+    background-color: #333333;
+}
+
+.field-button {
+	margin-right: 2px;
+	margin-left: 2px;
+}
+
+.my-form-group {
+	padding: 0 10px 0 10px;
+}
+
+.input-field-label {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.sortable-component-placeholder { 
+	height: 1.5em; 
+	line-height: 1.2em; 
+}
+.field-button {
+	margin-right: 2px;
+	margin-left: 2px;
+}
+
+.draggable-bar { 
+	list-style-type: none; 
+	margin: 0; 
+    padding: 0; 
+    width: 60%; 
+}
+.draggable-bar li { 
+	margin: 0 3px 3px 3px; 
+	padding: 0.4em; 
+    padding-left: 1.5em; 
+}
+
+.draggable-highlight {
+	border: 1px solid red;
+    font-weight: bold;
+    font-size: 45px;
+    background-color: #333333;
+}
